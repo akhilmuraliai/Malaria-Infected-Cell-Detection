@@ -3,7 +3,7 @@
 This dataset contains a total of 27,558 images of Infected and Parasitized cell images of Malaria.
 <br>
 Dataset links : [NIH](https://ceb.nlm.nih.gov/repositories/malaria-datasets/) | [kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)<br>
-Kaggle Notebook : [here](https://www.kaggle.com/akhilmurali/malaria-cell-detection)
+Kaggle Notebook : [here](https://www.kaggle.com/akhil47/malaria-detection-from-cell-images-cnn/)
 
 ## APPROACH
 ```python
